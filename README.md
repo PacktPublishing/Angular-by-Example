@@ -54,7 +54,6 @@ With the following software and hardware list you can run all code files present
 
 ## Get to Know the Authors
 **Chandermani Arora** is a software craftsman, with love for technology and expertise on web stack. With years of experience, he has architected, designed, and developed various solutions for Microsoft platforms. He has been building apps on Angular 1 since its early days. Having a passion for the framework every project of his has an Angular footprint.
-
 He tries to support the platform in every possible way by writing blogs on various Angular topics or helping fellow developers on StackOverflow, where he is an active member on the Angular channel. He also authored the first edition of this book.
 
 **Kevin Hennessy** is a Senior Software Engineer with Applied Information Sciences. He has 20 years' experience as a developer, team lead, and solutions architect, working on web-based projects, primarily using the Microsoft technology stack. Over the last several years, he has presented and written about single-page applications and JavaScript frameworks, including Knockout, Meteor, and Angular. He has spoken about Angular at the All Things Open conference.
